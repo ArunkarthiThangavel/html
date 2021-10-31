@@ -1,0 +1,44 @@
+header {
+  font-size: 17px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  height: 100px;
+  background-color: rgb(23, 90, 167);
+}
+.head {
+  color: white;
+}
+.p1 {
+  color: #ddd;
+}
+.p2 {
+  color: #ddd;
+}
+.p3 {
+  color: chartreuse;
+}
+.p4 {
+  color: #ddd;
+}
+.div {
+  display: block;
+
+  text-align: left;
+}
+.box {
+  display: block;
+  text-align: center;
+}
+
+img {
+  width: 50px;
+  
+}
+nav {
+  line-height: 0.5px;
+  background-color: rgb(23, 90, 167);
+}
+.co{
+  display: block;
+  margin: 0 auto 0 auto;
+}
